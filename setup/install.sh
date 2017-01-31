@@ -61,6 +61,7 @@ else
 	 pip install pydispatcher
 	 pip install macholib
 	 pip install flask
+	 pip install pyOpenSSL
 fi
 
 # set up the database schema
